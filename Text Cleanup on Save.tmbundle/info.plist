@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Text Cleanup on Save</string>
+	<key>ordering</key>
+	<array/>
+	<key>uuid</key>
+	<string>39C34D82-C333-49D6-8B57-F4CB327A3C84</string>
+</dict>
+</plist>
