@@ -7,5 +7,5 @@ Installation
 ===
 
 1. git clone etc
-2. cp Text\ Cleanup\ on \Save.tmbundle ~/Library/Application\ Support/TextMate/Bundles/
-3. osascript -e 'tell app "Textmate" to reload bundles'
+2. ```cp Text\ Cleanup\ on \Save.tmbundle ~/Library/Application\ Support/TextMate/Bundles/```
+3. ```osascript -e 'tell app "Textmate" to reload bundles'```
